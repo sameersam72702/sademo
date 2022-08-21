@@ -1,0 +1,23 @@
+---
+- name: Ansible Find Example
+  hosts: conf
+  become: user1
+  tasks:
+   - name : Find files endwith log
+     find:
+       paths: /home/user1/btservices/dailyrecords
+       patterns: '*.log'
+     register: output
+
+   - name: fetching the files from find
+     fetch:
+       src: "{{item.path}}"
+       remote_src: true
+       dest: /tmp/backup
+     with_items: "{{ output.files }}"
+        
+        
+        
+         
+        
+        

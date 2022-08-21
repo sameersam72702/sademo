@@ -1,0 +1,38 @@
+10.1.1.136  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.143  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.142  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.145  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.147  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.149  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.151  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.135  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.138  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.141  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.146  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.150  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.152  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.148  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.139  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+10.1.1.140  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+
+[g0]
+10.1.1.136
+10.1.1.137
+10.1.1.143
+10.1.1.142
+10.1.1.145
+10.1.1.147
+10.1.1.149
+10.1.1.151
+10.1.1.135
+10.1.1.138
+10.1.1.141
+10.1.1.146
+10.1.1.150
+10.1.1.152
+10.1.1.148
+10.1.1.139
+10.1.1.140
+
+
+

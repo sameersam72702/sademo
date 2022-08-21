@@ -1,0 +1,7 @@
+---
+- name: script
+  hosts: g0
+  become: yes
+  tasks:
+   - name: excute the script of printer queqe clean
+     command: sh /home/user1/btservices/printqueueclean.sh

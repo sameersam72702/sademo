@@ -1,0 +1,9 @@
+192.167.1.125  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+192.167.1.130  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+192.167.1.129  ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+[conf]
+192.167.1.125
+192.167.1.129
+192.167.1.130
+
+

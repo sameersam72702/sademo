@@ -1,0 +1,5 @@
+
+172.16.8.87 ansible_connection=ssh ansible_ssh_user=user1 ansible_ssh_pass=na@123
+[vij]
+172.16.8.87
+
